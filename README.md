@@ -12,7 +12,7 @@ This repository contains the code, images, and documentation for the **Autonomou
 ---
 
 ## Project Circuit Diagram 🛠️
-![Project Image]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fsrituhobby.com%2Fhow-to-make-a-multi-function-arduino-robot%2F&psig=AOvVaw2qXNmwEAU-pAg-UpyL6Sg2&ust=1731943659102000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDK-J3X44kDFQAAAAAdAAAAABAK")
+![Project Image]("https://images.app.goo.gl/cL51hLSvRHupw85n8")
 
 ---
 
